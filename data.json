@@ -1,0 +1,62 @@
+[
+    {
+        "Match": "Magdeburg 0-2 Arminia Bielefeld",
+        "Prob_1": 10.0,
+        "Prob_X": 12.0,
+        "Prob_2": 78.0
+    },
+    {
+        "Match": "Magdeburg 0-2 Arminia Bielefeld",
+        "Prob_1": 11.0,
+        "Prob_X": 5.0,
+        "Prob_2": 84.0
+    },
+    {
+        "Match": "Bochum 0-0 Paderborn",
+        "Prob_1": 31.0,
+        "Prob_X": 64.0,
+        "Prob_2": 5.0
+    },
+    {
+        "Match": "Bochum 0-0 Paderborn",
+        "Prob_1": 11.0,
+        "Prob_X": 79.0,
+        "Prob_2": 10.0
+    },
+    {
+        "Match": "Holstein Kiel 1-2 Schalke 04",
+        "Prob_1": 11.0,
+        "Prob_X": 10.0,
+        "Prob_2": 79.0
+    },
+    {
+        "Match": "Holstein Kiel 1-2 Schalke 04",
+        "Prob_1": 23.0,
+        "Prob_X": 8.0,
+        "Prob_2": 69.0
+    },
+    {
+        "Match": "Dynamo Dresden 1-2 Elversberg",
+        "Prob_1": 9.0,
+        "Prob_X": 6.0,
+        "Prob_2": 85.0
+    },
+    {
+        "Match": "Dynamo Dresden 1-2 Elversberg",
+        "Prob_1": 10.0,
+        "Prob_X": 8.0,
+        "Prob_2": 82.0
+    },
+    {
+        "Match": "Eintracht Braunschweig 2-2 Darmstadt 98",
+        "Prob_1": 21.0,
+        "Prob_X": 74.0,
+        "Prob_2": 5.0
+    },
+    {
+        "Match": "Eintracht Braunschweig 2-2 Darmstadt 98",
+        "Prob_1": 22.0,
+        "Prob_X": 69.0,
+        "Prob_2": 9.0
+    }
+]
